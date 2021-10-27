@@ -14,7 +14,6 @@ Para obtener una copia del proyecto, se debe clonar la rama principal.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
 Se debe tener instalado en la máquina el jdk de java versión 8.
 Debe contar con un IDE para java, puede ser eclipse.
 El IDE debe tener integrada la librería lombok, que se usa para facilitar el desarrollo del código evitando escribir ciertos métodos repetitivos como los get y los set.
