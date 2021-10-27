@@ -27,9 +27,6 @@ Para ejecutar la aplicación, corra la clase principal "ChallengeApplication" co
 La aplicación está lista para usarse, por defecto corre en la ruta http://localhost:8080/, si tiene problemas con el uso de este puerto, puede especificar el de su preferencia 
 en el archivo application.properties de la siguiente manera : server.port=8082
 
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
 Prueba el análisis de ADN  para saber si un humano es o no mutante:
  Por medio de postman, consume un servicio tipo Post con la ruta http://localhost:8080/mutant/
  Agrega un cuerpo tipo json a la petición con el arreglo de string que representa la cadena de adn, tal como se indica en la documentación de swagger de la aplicacíón.
@@ -58,10 +55,7 @@ https://mutant-ml-app.herokuapp.com/swagger-ui.html#/adn-validator-service/getSt
 
 Las pruebas unitarias están implementadas con Junit. Se pueden ver en la carpeta test del proyecto y ser ejecutadas para su comprobación.
 
-
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [SpringBoot](https://spring.io/projects/spring-boot/) - Framework web usado
 * [Spring Data MongoDB](https://spring.io/projects/spring-data-mongodb/) - Para la integración con la base de datos MongoDB.
@@ -72,8 +66,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Jenny Alejandra Castaño López** - *Desarrollo y documentación.* - [JennyCastaño]
 
