@@ -9,8 +9,9 @@ Ver la aplicación desplegada:  https://mutant-ml-app.herokuapp.com/
 Ver documentación swagger de los servicios: https://mutant-ml-app.herokuapp.com/swagger-ui.html
 Desde la cual puedes probar los servicios disponibles en la aplcación, o puedes acceder directamente a ellos mediante los siguientes endpoints:
 
-** Post : https://mutant-ml-app.herokuapp.com/mutant
-** Get: https://mutant-ml-app.herokuapp.com/stats
+** Post : https://mutant-ml-app.herokuapp.com/mutant **
+
+** Get: https://mutant-ml-app.herokuapp.com/stats **
 
 
 ## Comenzando 🚀
